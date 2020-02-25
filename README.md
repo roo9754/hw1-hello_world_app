@@ -1,2 +1,2 @@
-# react-firstproject
-HW1 - ReactJS Hello World app 
+# hw1-hello_world_app
+react-firstproject 
